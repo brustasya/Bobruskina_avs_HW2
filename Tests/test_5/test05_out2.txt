@@ -1,0 +1,22 @@
+
+Changed container:
+Container contains 19 elements.
+0: It is Ball: radius = 63. Volume = 1.04739e+06. Density = 14
+1: It is Ball: radius = 3. Volume = 113.097. Density = 14
+2: It is Ball: radius = 3. Volume = 113.097. Density = 112112
+3: It is Ball: radius = 13. Volume = 9202.77. Density = 14
+4: It is Ball: radius = 3. Volume = 113.097. Density = 4.44565
+5: It is Tetrahedron: a = 644. Volume = 3.14769e+07. Density = 34
+6: It is Tetrahedron: a = 3. Volume = 3.18198. Density = 49
+7: It is Tetrahedron: a = 3. Volume = 3.18198. Density = 40
+8: It is Tetrahedron: a = 30. Volume = 3181.98. Density = 49
+9: It is Tetrahedron: a = 30. Volume = 3181.98. Density = 40
+10: It is Parallelepiped: a = 3, b = 3, c = 6. Volume = 54. Density = 7.2
+11: It is Parallelepiped: a = 7, b = 8, c = 10. Volume = 560. Density = 7.125
+12: It is Parallelepiped: a = 10, b = 1, c = 4. Volume = 40. Density = 5.12345
+13: It is Parallelepiped: a = 1, b = 2, c = 1. Volume = 2. Density = 5
+14: It is Parallelepiped: a = 11, b = 2, c = 3. Volume = 66. Density = 5
+15: It is Parallelepiped: a = 3, b = 41, c = 5. Volume = 615. Density = 348.348
+16: It is Parallelepiped: a = 134, b = 10, c = 10. Volume = 13400. Density = 8.345
+17: It is Parallelepiped: a = 6, b = 2, c = 1. Volume = 12. Density = 5
+18: It is Parallelepiped: a = 1, b = 2, c = 3. Volume = 6. Density = 567

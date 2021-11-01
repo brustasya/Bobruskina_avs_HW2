@@ -1,0 +1,5 @@
+Filled container:
+Container contains 3 elements.
+0: It is Ball: radius = 2. Volume = 33.5103. Density = 3.4
+1: It is Parallelepiped: a = 1, b = 2, c = 3. Volume = 6. Density = 4
+2: It is Tetrahedron: a = 4. Volume = 7.54247. Density = 6.7
